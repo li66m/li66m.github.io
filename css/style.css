@@ -1,11 +1,48 @@
-.names{
-    color: navy;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
 }
-
-.socials{
-    color:slateblue;
-    font-size: 18px;
+.background{
+    min-height: 100vh;
+    width: 100%;
+    background-color: #000;
+    background-image: url(https://cdn.dribbble.com/users/583436/screenshots/13917319/sphere.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    color: #fff;
 }
-body {
-    background-color: #DBF9FC;
-    }
+.aboutme{
+    min-height: 100vh;
+    width: 100%;
+    background-color: #000;
+    background-image: url(https://animesher.com/orig/2/209/2094/20947/animesher.com_90s-anime-anime-aesthetic-gifs-anime-gifs-2094742.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 30%;
+    color: #fff;
+}
+nav body p a{
+    color: blue;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+.logo{
+    width: 200px;
+    margin: 12px 20px;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 15px 80px;
+}
+nav ul li a{
+    color: bisque;
+    text-decoration: none;
+}

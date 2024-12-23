@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/liamhastings.github.io/static/css/main.3fa94429.css",
+    "main.js": "/liamhastings.github.io/static/js/main.42fa091c.js",
+    "index.html": "/liamhastings.github.io/index.html",
+    "main.3fa94429.css.map": "/liamhastings.github.io/static/css/main.3fa94429.css.map",
+    "main.42fa091c.js.map": "/liamhastings.github.io/static/js/main.42fa091c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fa94429.css",
+    "static/js/main.42fa091c.js"
+  ]
+}

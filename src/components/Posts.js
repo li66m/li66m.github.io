@@ -3,6 +3,12 @@ import './Posts.css';
 
 const posts = [
     {
+        id: 5,
+        date: 'December 22, 2024',
+        title: 'up and running!',
+        description: 'finally got the website deployed today! still have to work out some kinks'
+    },
+    {
         id: 4,
         date: 'December 21, 2024',
         title: 'Getting the hang out it',
